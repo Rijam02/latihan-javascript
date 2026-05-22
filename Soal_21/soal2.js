@@ -4,3 +4,6 @@
 
 console.log("Belajar Javascript");
 console.log("123.45");
+
+document.write("Belajar Javascript");
+document.write("123.45");

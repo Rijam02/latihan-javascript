@@ -7,3 +7,6 @@ let kuota = 258;
 
 console.log(addres);
 console.log(kuota);
+
+document.write(addres + "<br>");
+document.write(kuota);

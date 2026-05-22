@@ -6,6 +6,6 @@ console.log("*********************************************");
 console.log("Ujian ALgoritma Muhammad Rijam Malik");
 console.log("---------------------------------------------");
 
-document.write("*********************************************")
-document.write("Ujian ALgoritma Muhammad Rijam Malik")
-document.write("---------------------------------------------");
+document.write("************************************* <br>");
+document.write("Ujian ALgoritma Muhammad Rijam Malik <br>");
+document.write("-------------------------------------------------------");
