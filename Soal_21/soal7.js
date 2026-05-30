@@ -1,4 +1,4 @@
-// soal 6
+// soal 7
 // Tanggal : 22 Mei 2026
 // Pembuat: Muhammad Rijam Malik
 
