@@ -1,11 +1,15 @@
 let total = 0;
+let angka = "";
 
 for(let i = 1; i <= 5; i++) {
 
-    console.log(i);
+   angka += i;
+
+    if(i < 5) {
+        angka += " + ";
+    }
 
     total += i;
 }
 
-console.log("---");
-console.log(total);
+console.log(angka + " = " + total);
